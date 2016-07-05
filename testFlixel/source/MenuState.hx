@@ -12,6 +12,7 @@ class MenuState extends FlxState
 	override public function create():Void
 	{
 		super.create();
+		add(new FlxText(0, 0, 0, "Tommy sucked!"));
 	}
 
 	override public function update(elapsed:Float):Void
