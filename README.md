@@ -1,2 +1,2 @@
 # haxeflixel
-Test for HaxeFlixel, f4gg0t
+Test for HaxeFlixel, f4ggit
